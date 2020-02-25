@@ -35,7 +35,7 @@ The OS versions that we will use for this project are:
 This is the list of dependencies needed for the package MetaboAnalystR 2.0:  
 Rserve, RSclient, ellipse, scatterplot3d, Cairo, randomForest, caTools, e1071, som, impute, pcaMethods, RJSONIO, ROCR, globaltest, GlobalAncova, Rgraphviz, preprocessCore, genefilter, pheatmap, SSPA, sva, Rcpp, pROC, data.table, limma, car, fitdistrplus, lars, Hmisc, magrittr, methods, xtable, pls, caret, lattice, igraph, gplots, KEGGgraph, reshape, RColorBrewer, tibble, siggenes, plotly, fgsea, metap, reshape2, scales.
 
-Some of the packages are only available from Bioconductor. To successfully install all the packages, it is recommended to use the instructions in the README.md file from the [MetaboAnalystR 2.0 repository](https://github.com/xia-lab/MetaboAnalystR).
+Some of the packages are only available from Bioconductor. To successfully install the MetaboAnalystR package and all its dependencies, it is recommended to use the instructions in the README.md file from the [MetaboAnalystR 2.0 repository](https://github.com/xia-lab/MetaboAnalystR).
 
 | Package        | Version | Lib source             |
 |----------------|---------|------------------------|
@@ -96,5 +96,5 @@ Xia, J., Psychogios, N., Young, N., & Wishart, D. S. (2009). MetaboAnalyst: a we
 
 
 ### Contributing
-We welcome contributions from everyone. Before you get started, please see our contributor guidelines. Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+We welcome contributions from everyone. Before you get started, please see our [contributor guidelines](CONTRIBUTING.md). Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
